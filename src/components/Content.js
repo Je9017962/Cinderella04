@@ -1,0 +1,4 @@
+// Content
+const myElement = document.getElementById("myParagraph");
+myElement.innerHTML = "Cinderella is a kind and obedient girl who tragically lost her mother very young. Her father remarried a younger women with two kids. Once her father died Cinderella's step family became wicked. Cinderella  is forced to do all the chores by her cruel stepmother and stepsisters."
+"The prince of the kingdom throws a ball to find a wife, but Cinderella is not allowed to attend because her step mother told her no. Cinderella's fairy godmother gives her a pumpkin carriage, glass slippers, and a beautful gown so she can go to the ball. Cinderella attends the ball and meets the prince, but she must leave by midnight or leave behind a glass slipper. The prince finds Cinderella using the glass slipper and they marry. ";
